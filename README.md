@@ -4,4 +4,4 @@
 -> Using HTML, CSS, JavaScript
 -> Made it responsive
 ```
-##[Check it out Here](https://game-of-ttt.netlify.app/)##
+##[Check it out Here](https://game-of-ttt.netlify.app/)
